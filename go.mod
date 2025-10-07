@@ -1,6 +1,6 @@
 module hello-world
 
-go 1.25.1
+go 1.20
 
 require github.com/fatih/color v1.18.0
 
